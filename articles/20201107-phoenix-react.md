@@ -104,3 +104,9 @@ ReactDOM.render(<MyReactComponent />, document.getElementById('root'))
 
 - [React1.4で、Reactを動作させる](https://qiita.com/tajihiro/items/eece75b3fba4dceb0fd3)
 操作としてはほとんどこちらの記事と同じなのだが，preset周りが変わったのか，そのままではうまく動作させることができなかった．
+
+*****
+
+[2020/11/08 追記]
+react-routerを使ってページ遷移させる方法を書きました．
+[続・PhoenixでReactを使う ~Router編~](https://zenn.dev/ten_takano/articles/20201108-phoenix-react-router-config)
