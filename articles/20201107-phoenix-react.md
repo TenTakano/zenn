@@ -109,4 +109,4 @@ ReactDOM.render(<MyReactComponent />, document.getElementById('root'))
 
 [2020/11/08 追記]
 react-routerを使ってページ遷移させる方法を書きました．
-[続・PhoenixでReactを使う ~Router編~](https://zenn.dev/ten_takano/articles/20201108-phoenix-react-router-config)
+[続・PhoenixでReactを使う ~Router編~](https://zenn.dev/ten_takano/articles/20201108-phonix-react-router-config)
