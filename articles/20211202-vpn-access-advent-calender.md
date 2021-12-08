@@ -8,9 +8,10 @@ published: false
 
 # 前書き
 
-[ACCESS Advent Calender](https://qiita.com/advent-calendar/2021/access)の9日目は[@ten_takano](https://qiita.com/ten_takano)です。
+あなたがこの記事を読んでいるということは、私がなんとか記事をかきあげたということでしょう。
+ということで[ACCESS Advent Calender](https://qiita.com/advent-calendar/2021/access)の9日目は[@ten_takano](https://qiita.com/ten_takano)です。
 
-*********************なんか前置き*********************
+最近業務の都合でVPNをプログラム側から触ることになって調査をしたのですが、時間をかけた割に結構とっちらかっている＆思ったほど何もできないということがあったので、まとめることにしました。
 
 # そもそもVPNってなに？
 
