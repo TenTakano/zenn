@@ -3,7 +3,7 @@ title: "PhoenixでArangodbを使うときのecto周りの設定"
 emoji: "🖋"
 type: "tech"
 topics: ["phoenix", "arangodb"]
-published: false
+published: true
 ---
 
 # はじめに
