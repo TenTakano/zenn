@@ -1,6 +1,6 @@
 ---
 title: "VPNのいろいろ"
-emoji: "🖋"
+emoji: "🎄"
 type: "tech"
 topics: ["vpn"]
 published: true
